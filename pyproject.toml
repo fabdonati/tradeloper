@@ -1,0 +1,9 @@
+[project]
+name = "tradeloper"
+authors = [
+    {name = "Fabrizio Donati", email = "fabrizio.donati@protonmail.com"},
+    {name = "Ario Battolla", email = "ario.battolla@gmail.com"}
+]
+description = "Trading bot"
+readme = "README.md"
+dynamic = ["version"]
